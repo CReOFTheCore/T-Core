@@ -1,0 +1,13 @@
+C:\Users\MasterMind\Documents\GitHub\C-Codes\bin\Debug\netcoreapp3.1\C-Codes.exe
+C:\Users\MasterMind\Documents\GitHub\C-Codes\bin\Debug\netcoreapp3.1\C-Codes.deps.json
+C:\Users\MasterMind\Documents\GitHub\C-Codes\bin\Debug\netcoreapp3.1\C-Codes.runtimeconfig.json
+C:\Users\MasterMind\Documents\GitHub\C-Codes\bin\Debug\netcoreapp3.1\C-Codes.runtimeconfig.dev.json
+C:\Users\MasterMind\Documents\GitHub\C-Codes\bin\Debug\netcoreapp3.1\C-Codes.dll
+C:\Users\MasterMind\Documents\GitHub\C-Codes\bin\Debug\netcoreapp3.1\C-Codes.pdb
+C:\Users\MasterMind\Documents\GitHub\C-Codes\obj\Debug\netcoreapp3.1\C-Codes.csprojAssemblyReference.cache
+C:\Users\MasterMind\Documents\GitHub\C-Codes\obj\Debug\netcoreapp3.1\C-Codes.AssemblyInfoInputs.cache
+C:\Users\MasterMind\Documents\GitHub\C-Codes\obj\Debug\netcoreapp3.1\C-Codes.AssemblyInfo.cs
+C:\Users\MasterMind\Documents\GitHub\C-Codes\obj\Debug\netcoreapp3.1\C-Codes.csproj.CoreCompileInputs.cache
+C:\Users\MasterMind\Documents\GitHub\C-Codes\obj\Debug\netcoreapp3.1\C-Codes.dll
+C:\Users\MasterMind\Documents\GitHub\C-Codes\obj\Debug\netcoreapp3.1\C-Codes.pdb
+C:\Users\MasterMind\Documents\GitHub\C-Codes\obj\Debug\netcoreapp3.1\C-Codes.genruntimeconfig.cache
